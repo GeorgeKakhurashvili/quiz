@@ -1,0 +1,188 @@
+*
+{
+	margin:0 auto;
+}
+/*ადმინი*/
+#main
+{
+	width: 600px;
+	height: 800px;
+	margin-top: 20px;
+
+}
+.text
+{
+	width: 600px;
+	height: 50px;
+
+	float: left;
+}
+.text p
+{
+	font-size: 15pt;
+	font-family: BPG Mrgvlovani;
+}
+.alert
+{
+	width: 600px;
+	height: 50px;
+	float: left;
+	font-family: BPG Mrgvlovani;
+}
+@font-face {
+    font-family: BPG Mrgvlovani;
+    src: url(../fonts/bpg_mrgvlovani_caps_2010.ttf);
+}
+
+::-webkit-input-placeholder { color:black; font-family: BPG Mrgvlovani;}
+
+#inputs_of_quest
+{
+	width: 60%;
+	margin: 0 auto;
+
+
+}
+#text_of_action
+{
+	width: 75%;
+	height: 50px;
+	float: left;
+
+}
+#text_of_action p
+{
+	font-size: 15pt;
+	font-family: BPG Mrgvlovani;
+}
+.inputs_of_quest
+{
+	width: 100%;
+	height: 250px;
+	float: left;
+	margin-top: 10px;
+
+}
+.inputs
+{
+	width: 75%;
+	height: 200px;
+	margin-top: 10px;
+	float: left;
+
+}
+.numbers
+{
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin-top:7px;
+	margin-left: 10px;
+
+}
+.numbers p
+{
+	
+	font-size:17pt;
+}
+.inputs1
+{
+	width:88.5%;
+	float: right;
+	margin-right: 2%;
+	margin-top: 3px;
+}
+.radio_but
+{
+	width: 4%;
+	margin-right: 0.5%;
+	margin-top: 3px;
+	float: right;
+}
+#buttons
+{
+	float: left;
+	margin-top: 20px;
+}
+
+/*ძირითადი გვერდი*/
+
+.name_quiz
+{
+	width: 500px;
+	height: 500px;
+	float: left;
+	margin: 40px 0px 0px 50px;
+
+}
+.quiz_a
+{
+	width: 500px;
+	height: 100px;
+	margin: 10px 0px 0px 0px;
+	float: left;
+
+}
+.quiz_a p
+{
+	float: left;
+	font-size: 12pt;
+}
+.quiz_a a
+{
+	font-size: 12pt;
+	text-decoration: none;
+	float: left;
+	color: black;
+	font-family: BPG Mrgvlovani;
+}
+.quiz_a a:hover
+{
+	text-decoration: none;
+}
+/*loader*/
+.loading
+{
+	width: 1000px;
+	height: 700px;
+
+}
+.load_text
+{
+	width: 1000px;
+	height: 100px;
+	font-family: BPG Mrgvlovani;
+}
+
+/*result*/
+.reslut_main
+{
+	width: 100%;
+	height: 400px;
+	background-color: #042d6e;
+}
+.quest_num
+{
+	width: 26%;
+	height: 100px;
+}
+.quest_num p
+{
+	font-family: BPG Mrgvlovani;
+	font-size: 17pt;
+	color:white;
+	padding-top: 35px;
+}
+
+.button
+{
+	width: 250px;
+	height: 40px;
+	margin-top: 33px;
+	margin-left: 20px;
+	float: left;
+}
+.button a
+{
+	font-family: BPG Mrgvlovani;
+}
